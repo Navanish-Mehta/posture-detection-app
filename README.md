@@ -128,7 +128,7 @@ Click the link below to access the deployed app:
 
 Made with ❤️ by **Navanish Mehta**  
 📬 [Portfolio](https://navanish-mehta.github.io/Portfolio-app/)  
-📧 navanishmehta.official@gmail.com
+📧 navanishmehta@gmail.com
 
 ## Usage
 
