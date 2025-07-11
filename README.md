@@ -116,6 +116,19 @@ Posture-Detection-App/
    ```
    
    The app will be available at `http://localhost:3000`
+## 🌐 Live Demo
+
+Click the link below to access the deployed app:
+
+🔗 [Posture Detection App - Live](https://posture-detection-app-navanish-mehtas-projects.vercel.app/)
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by **Navanish Mehta**  
+📬 [Portfolio](https://navanish-mehta.github.io/Portfolio-app/)  
+📧 navanishmehta.official@gmail.com
 
 ## Usage
 
