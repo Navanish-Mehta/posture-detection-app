@@ -32,7 +32,7 @@ const VideoUpload = ({ exerciseType, onAnalysisStart, onAnalysisComplete }) => {
       const base64 = await fileToBase64(selectedFile);
       
       // Send to backend
-      const API_BASE = process.env.REACT_APP_API_BASE_URL || "http://localhost:8000";
+      const API_BASE = process.env.REACT_APP_API_BASE_URL;
       const response = await fetch(`${API_BASE}/analyze-video`, {
         method: 'POST',
         headers: {
